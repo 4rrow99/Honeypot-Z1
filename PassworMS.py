@@ -1,5 +1,5 @@
-Import hashlib
-Import getpass
+import hashib
+import getpass
 
 password_manager = {}
 
