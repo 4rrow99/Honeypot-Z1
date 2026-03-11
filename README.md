@@ -1,1 +1,1 @@
-Proyectos basicos de ciberseguridad y python.
+Proyectos basicos de ciberseguridad y python
