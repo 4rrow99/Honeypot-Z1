@@ -1,4 +1,4 @@
-# Solución básica: Par o Impar
+
 numero = int(input("Ingresa un número: "))
 if numero % 2 == 0:
     print("Es par")
@@ -7,3 +7,15 @@ else:
 
 
 ########## Por corrregir y agregar mas #######
+######## ES mas un block de notas#####
+
+
+
+for i in range(1, 11):
+    print(i)
+
+# Solución 2: Usando while
+contador = 1
+while contador <= 10:
+    print(contador)
+    contador += 1 # Importante para evitar bucle infinito
